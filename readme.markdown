@@ -1,17 +1,5 @@
 <p align="center">
-  <svg width="150" height="150" viewBox="0 0 150 150">
-    <defs>
-      <clipPath id="circle">
-        <circle cx="75" cy="75" r="75"/>
-      </clipPath>
-    </defs>
-    <image
-      href="https://gravatar.com/avatar/5bae5084911726c8d81e2d8b2940318da5e29ed3c769d09fe2d26284d3fc72db?size=256&d=initials"
-      width="150"
-      height="150"
-      clip-path="url(#circle)"
-    />
-  </svg>
+  <img src="https://github.com/2nul/2nul/raw/main/avt-circle.png" alt="2nul" width="150" height="150">
 </p>
 
 <h1 align="center">Hi, I'm 2nul</h1>
@@ -68,12 +56,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
   </a>
   <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40">
-  </a>
-</p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original
