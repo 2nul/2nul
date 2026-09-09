@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/2nul/2nul/raw/main/avt-circle.png" alt="2nul" width="150" height="150">
+  <img src="https://github.com/2nul/2nul/raw/main/avt-1.png" alt="2nul" width="150" height="150">
 </p>
 
 <h1 align="center">Hi, I'm 2nul</h1>
